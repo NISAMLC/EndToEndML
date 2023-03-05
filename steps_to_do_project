@@ -1,0 +1,7 @@
+Steps Involed in and END TO END ML PROJECT
+
+step-1
+- Creating Github Repo
+- opens vs code inside project folder
+- creating a new environment inside vs code by using command conda create -p venv python==3.8 -y
+
